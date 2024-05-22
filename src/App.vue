@@ -3,7 +3,7 @@
 
 <template>
   <div>
-    <svg-icon :name="home" :color="red" :height="'100px'" :width="'100px'"></svg-icon>
+    <RouterView></RouterView>
   </div>
 </template>
 
