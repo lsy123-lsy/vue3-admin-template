@@ -1,3 +1,10 @@
 // 提供scss全局变量
 // 设置项目主题色颜色
-$base-color: red
+$base-color: red;
+
+// 左侧菜单的宽度
+$base-menu-width: 260px;
+$base-menu-background: #001529;
+
+// 顶部当行的高度
+$base-tabbar-height: 50px;
